@@ -1,0 +1,5 @@
+my_tuple = (10,20,30,40,50)
+maximum = max(my_tuple)
+minimum = min(my_tuple)
+print("maximum value:",maximum)
+print("minimum value:",minimum)
