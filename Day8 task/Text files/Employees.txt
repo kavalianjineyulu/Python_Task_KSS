@@ -1,0 +1,3 @@
+anji 300000
+akhil 500000
+ashok 700000anil 100000
